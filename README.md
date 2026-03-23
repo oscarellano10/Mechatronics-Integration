@@ -1,2 +1,2 @@
 # Mechatronics-Integration
-Files that were used in the class Mechatronics Integration, to complete the goal at hand. This code was written by me. 100% no AI was used in this code.
+Files that were used in the class Mechatronics Integration. This code calculates the internal forces of the band and the diameters that the bolts and material should be.
